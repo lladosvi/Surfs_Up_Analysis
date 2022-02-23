@@ -22,3 +22,6 @@ Below we are presenting the summary statistics calculated for June and December 
 
 # Summary
 
+Even though temperatures recorded in December seem to vary more than those of June, both months would still provide appropriate weather conditions for both surfing and ice cream consumptions. The average temperatures in June and December only differ by 4 degrees and even with some lower lows in December there seems to be enough pbservations at reasonable temperatures to conduct the business. 
+
+I would recommend additional analysis to provide more insights into the size of the business. In addition to temperatures , rain could also influence both surfing and ice cream consumptions so I would recommend to conduct 2 similar queries for rain in June and December, then look at data similarly to what we have done above. 
