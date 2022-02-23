@@ -18,7 +18,7 @@ Below we are presenting the summary statistics calculated for June and December 
 
 - The average recorded temperature in June is about 75 degrees F, 4 degrees higher than the average temp in December. This represents a -5% change in average temperature from June to December.
 - The standard deviation in December is larger than the one in June , showing more variation in temperatures. 
-- The min and max diferential is also larfger in December than June also showind a wider distribution of temperatures. 
+- The min and max diferential is also larger in December than June also showing a wider distribution of temperatures. 
 
 # Summary
 
